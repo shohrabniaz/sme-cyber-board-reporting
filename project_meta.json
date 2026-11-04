@@ -1,10 +1,17 @@
 {
-  "seq": 44,
   "title": "Cyber Security Governance and Board Reporting Framework for SME Directors",
-  "slug": "cyber-security-governance-and-board-reporting-framework",
+  "old_slug": "cyber-security-governance-and-board-reporting-framework",
+  "slug": "sme-cyber-board-reporting",
   "folder": "Cyber_Security_Governance_And_Board_Reporting_Framework",
   "kind": "governance",
-  "body_words": 243,
+  "body_words": 312,
+  "source": "SCI700",
   "project_id": "Project 34",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
